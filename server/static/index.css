@@ -1,0 +1,26 @@
+#loginInfo{
+	color: red;
+	text-align: center;
+}
+#registInfo{
+	text-align: center;
+	color: red;
+}
+.nav .bo a{
+	margin-left: 10px;
+	color:red;
+	font-size:12px;
+}
+.c_main{
+	width: 1200px;
+	height: 500px;
+	border: 1px solid;
+	margin: 0 auto;
+}
+.c_main .msg{
+	margin-top: 50px;
+	height: 40px;
+	border-radius: 8px;
+	background-color: #D9EDF7;
+	line-height: 40px;
+}
